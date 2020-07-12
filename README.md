@@ -1,7 +1,7 @@
 ## Gesture Control Gaming 
 
 Hey guys,
-This is my first ever pyhton project. Here I'm using openCV and Numpy libraries of Python.
+this is my first ever pyhton project. Here I'm using openCV and Numpy libraries of Python to control a racing game with the steering wheel. It gives you a virtual driving experience. 
 
 ## Description
 
