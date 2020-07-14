@@ -10,4 +10,6 @@ The color boundaries were set using color.py in which we set range of HSV values
 
 I'm using a MacOS and Spyder to run my project. This code will be compatable with any game on MacOS. If you are using WindowsOS then you might have modify the directkeys.py file
 
+Follow the steps in requirements file to get the setup ready, then you could run the color.py file and directkeys.py file in order to set them up and make sure they're working correctly. Then you could run controlling_steer.py finally to get the output window.
+
 ![](Screenshot.png)
